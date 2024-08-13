@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DesignPattern.DelegateEvent_MusicPlayer.Program</StartupObject>
+    <StartupObject>DesignPattern.DelegateEvent_Calculator.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

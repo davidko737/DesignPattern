@@ -1,0 +1,15 @@
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+\\corp.complusam.com\dfs\Users$\David.Ko\My Documents\GitHub\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll

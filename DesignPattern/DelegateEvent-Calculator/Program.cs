@@ -11,11 +11,11 @@ namespace DesignPattern.DeletegateEvent_Calculator
         static void Main(string[] args)
         {
             // Delegate instantiation
-            operation obj = new operation(Program.Addition);
+            //operation obj = new operation(Program.Addition);
 
-            // output
-            Console.WriteLine("Addition is={0}", obj(23, 27));
-            Console.ReadLine();
+            //// output
+            //Console.WriteLine("Addition is={0}", obj(23, 27));
+            //Console.ReadLine();
         }
     }
 }

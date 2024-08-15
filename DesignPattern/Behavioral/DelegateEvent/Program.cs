@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPattern.DelegateEvent
+namespace DesignPattern.Behavioral.DelegateEvent
 {
     // Defing the delegate
     public delegate void NotifyEventHandler(object sender, EventArgs e);
@@ -13,7 +13,7 @@ namespace DesignPattern.DelegateEvent
     {
         static void Main(string[] args)
         {
-            Publisher publisher = new Publisher();  
+            Publisher publisher = new Publisher();
             Subscriber subscriber = new Subscriber();
 
             // Register the event

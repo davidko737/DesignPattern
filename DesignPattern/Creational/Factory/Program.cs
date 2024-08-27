@@ -5,7 +5,7 @@ using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPattern.Creational.Factory.Factory_Transport
+namespace DesignPattern.Creational.Factory
 {
     // Provides an interface for creating objects,
     // allowing implementing classes to instantiate concrete products
@@ -35,7 +35,7 @@ namespace DesignPattern.Creational.Factory.Factory_Transport
         }
     }
 
-    public class Ferry: ITransport
+    public class Ferry : ITransport
     {
         public string Travel()
         {

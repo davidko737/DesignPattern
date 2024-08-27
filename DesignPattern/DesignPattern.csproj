@@ -5,10 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DesignPattern.Creational.Singleton.Program</StartupObject>
+    <StartupObject>DesignPattern.Creational.Factory.Factory_Transport.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Common\" />
     <Folder Include="Structural\" />
   </ItemGroup>
 

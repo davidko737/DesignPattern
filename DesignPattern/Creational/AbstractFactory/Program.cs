@@ -7,6 +7,15 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Creational.AbstractFactory
 {
+    /*
+        | Feature                 | Simple Factory                         | Abstract Factory                         |
+        |-------------------------|----------------------------------------|------------------------------------------|
+        | **Structure**           | Single factory class                   | Multiple interfaces and classes          |
+        | **Object Creation**     | Creates one type of product            | Creates families of related products     |
+        | **Decoupling**          | Tightly coupled to concrete classes    | Loosely coupled through interfaces       |
+        | **Extensibility**       | Requires modification to add new types | Easily extendable with new factories     |
+        | **Use Case**            | Simple object creation                 | Complex systems with related objects     |
+     */
 
     public class Program
     {
